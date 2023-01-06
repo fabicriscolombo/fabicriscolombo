@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Fabiana
+Former Product Owner happily living the life of a backend software developer since 2020.
 
 <!--
 **fabicriscolombo/fabicriscolombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
